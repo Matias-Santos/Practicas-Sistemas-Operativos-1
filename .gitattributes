@@ -1,0 +1,4 @@
+*.jpg linguist-detectable=false
+*.png linguist-detectable=false
+*.txt linguist-detectable=false
+*.rtf linguist-detectable=false
